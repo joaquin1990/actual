@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Vela de Pomelo",
+		"price": 710,
+		"thumbnail": "https://m.media-amazon.com/images/I/612AagQtN-L._AC_SS450_.jpg",
+		"id": 1
+	},
+	{
+		"title": "Vela de Rosa",
+		"price": 740,
+		"thumbnail": "https://m.media-amazon.com/images/I/612AagQtN-L._AC_SS450_.jpg",
+		"id": 2
+	},
+	{
+		"title": "Vela de Arandano",
+		"price": 750,
+		"thumbnail": "https://m.media-amazon.com/images/I/612AagQtN-L._AC_SS450_.jpg",
+		"id": 3
+	},
+	{
+		"title": "Vela de Pera",
+		"price": 790,
+		"thumbnail": "https://m.media-amazon.com/images/I/612AagQtN-L._AC_SS450_.jpg",
+		"id": 4
+	}
+]
